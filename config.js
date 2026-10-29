@@ -6,7 +6,7 @@ window.SITE = {
   discord: "", // paste your Discord invite link to show the Join box and footer link (or set it later on the dashboard)
   footer: "Stories, reports and opinion from our newsroom.",
   legal: "This is a news outlet for roleplay communities. It is not affiliated with any real organisation or event.",
-  siteUrl: "", // leave empty for https://shadowdude0ps.github.io/RbxAlJazeera/
+  siteUrl: "https://irishobserver.github.io/", // leave empty for https://shadowdude0ps.github.io/RbxAlJazeera/
   repo: { owner: "shadowdude0ps", name: "RbxAlJazeera", branch: "main" },
   categories: ["News", "Politics", "International", "Opinion", "Defence", "Local"],
   about: "We are a newsroom covering our community. Tell readers who you are here.",
